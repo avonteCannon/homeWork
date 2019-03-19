@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7cab7c2-815e-4f23-bfbe-11be22834823" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork/src/main/java/caveOfProgram/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork/src/main/java/caveOfProgram/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork/src/main/java/printF/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork/src/main/java/printF/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork/target/classes/caveOfProgram/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork/target/classes/caveOfProgram/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homeWork/target/classes/printF/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../homeWork/target/classes/printF/Main.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -70,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -90,10 +95,26 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="demodayone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaChor5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="demodayone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaChor5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dayone" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,8 +188,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="8" width="1216" height="688" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30103806" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30622837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

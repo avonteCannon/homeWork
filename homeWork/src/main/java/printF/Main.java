@@ -36,6 +36,50 @@ public class Main {
         System.out.printf("Ya\tYa");
         System.out.printf("Ya\nYa");
 
+        //Loop Lecture (if)
+        String dayOfTheWeek = "Friday";
+        boolean isPayDay = true;
+
+        if(dayOfTheWeek.equals("Friday") && isPayDay == true){
+            System.out.println("where the party at?");
+        }else if(dayOfTheWeek.equals("Thursday")){
+            System.out.println("F..it more homework from mikaila");
+        }else if(dayOfTheWeek.equals("Thursday")){
+            System.out.println("F..it more homework from mikaila");
+        }else{
+            System.out.println("waka flocka");
+        }
+
+        //(for) Loops
+        for(int i=0; i<=10; i++){
+            System.out.println(i);
+        }
+
+        for(int i = 10; i >= 1; i--){
+            System.out.println(i);
+        }
+
+        int x = 1;
+        while(x < 11){
+            System.out.println(x);
+            x++;
+        }
+
+        int v = 10;
+        while(v > 0){
+            System.out.println(v);
+            v--;
+        }
+        int a = 10;
+        while(a > 0){
+            System.out.println(a);
+            a-=2;
+        }
+        int j = 9;
+        while(j > 0){
+            System.out.println(j);
+            j-=2;
+        }
 
 
 
