@@ -33,26 +33,18 @@ public class Main {
         System.out.println("Math.sin(" + num1 + ")=" + Math.sin(num1));
 
         //PASSWORD HOMEWORK
-        //Create a Scanner object
         Scanner username = new Scanner(System.in);
-
         System.out.println("Enter username");
 
-        //reads user inputs
         String userName = username.nextLine();
-
         System.out.println("Username is: " + userName);
-        //_________________________________________________
 
-        // scanner for password and unassign string for do while loop
         Scanner password = new Scanner(System.in);
         String passWord;
 
-        //attempt object
         int numAttempts = 0;
         int count = 1;
 
-        // do while loop with if else loop to limit possibilities
         do {
             System.out.println("Enter Password" + "\t" + count);
             passWord = password.nextLine();
@@ -63,7 +55,8 @@ public class Main {
         {
             if (passWord.equals("PIZZAPALACE")) {
                 System.out.println("YOUR LOGGED IN MY BOY");
-            } else {
+            }
+            else {
                 System.out.println("ERROR! ERROR!. YOUR LOCKED OUT SUCKA");
             }
 
